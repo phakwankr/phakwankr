@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Phakwan Kruerattanakul. Therapist turned software engineer based in Thailand.
+- 👋 Hi, I’m Phakwan Kruerattanakul. Therapist turned front-end developer based in Thailand.
 
-- 📫 Please feel free to contact me Via...
-- Linkedin: https://www.linkedin.com/in/phakwan-kruerattanakul-93a604188/
+Let's connect
+- Linkedin: www.linkedin.com/in/phakwankr
 - Email: phakwan.kr@gmail.com
 
 <!---
