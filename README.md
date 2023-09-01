@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phakwan Kruerattanakul. Therapist turned front-end developer based in Thailand.
+- 👋 Hi, I’m Phakwan Kruerattanakul. A therapist turned front-end developer & web designer based in Thailand.
 
 Let's connect
 - Linkedin: www.linkedin.com/in/phakwankr
